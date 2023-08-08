@@ -1,16 +1,9 @@
-@font-face {
-    font-family: "Virtual";
-    font-display: swap;
-    src: url("./Virtual-Regular.ttf") format("truetype");
-}
-
 div.et_pb_section.et_pb_section_0 {
-    background-size: initial;
     background-image: url(./background.png) !important;
 }
 
 .et_pb_section_0 {
-    min-height: 965.7px;
+    min-height: 650px;
 }
 
 .et_pb_section_0.et_pb_section {
@@ -30,7 +23,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_0 h1 {
-    font-family: "Virtual", Helvetica, Arial, Lucida, sans-serif;
+    font-family: "La Belle Aurore", Helvetica, Arial, Lucida, sans-serif;
     font-size: 100px;
     color: #000000 !important;
 }
@@ -64,7 +57,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_1 {
-    font-family: "Antic", Helvetica, Arial, Lucida, sans-serif;
+    font-family: "Bad Script", Helvetica, Arial, Lucida, sans-serif;
     font-size: 26px;
 }
 
@@ -86,24 +79,23 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_2 {
-    line-height: 1.8em;
-    font-family: "Nunito", Helvetica, Arial, Lucida, sans-serif;
+    font-family: "Bad Script", Helvetica, Arial, Lucida, sans-serif;
     font-size: 18px;
-    line-height: 1.8em;
+    line-height: 2.5em;
     width: 100%;
     max-width: 600px;
 }
 
 .et_pb_text_2 h1 {
-    font-family: "Virtual", Helvetica, Arial, Lucida, sans-serif;
+    font-family: "Bad Script", Helvetica, Arial, Lucida, sans-serif;
 }
 
 .et_pb_text_2 h2 {
-    font-family: "Virtual", Helvetica, Arial, Lucida, sans-serif;
+    font-family: "Bad Script", Helvetica, Arial, Lucida, sans-serif;
     font-size: 92px;
     color: #000000 !important;
     letter-spacing: 1px;
-    line-height: 1.5em;
+    line-height: 2.5em;
     text-align: center;
 }
 
@@ -145,10 +137,6 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 @media only screen and (min-width: 981px) {
-    .et_pb_image_0 {
-        width: 35%;
-    }
-
     .et_pb_image_3 {
         width: 56%;
     }
